@@ -1,0 +1,35 @@
+C:\Users\Heiner\source\repos\SistemaMatricula\Bibliotecas\CapaLogica.dll
+C:\Users\Heiner\source\repos\SistemaMatricula\Bibliotecas\CapaLogica.pdb
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaLogica\obj\Debug\CapaLogica.csprojAssemblyReference.cache
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\Bibliotecas\CapaLogica.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\Bibliotecas\CapaLogica.pdb
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaLogica\obj\Debug\CapaLogica.csprojAssemblyReference.cache
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaAspx\CapaLogica\obj\Debug\CapaLogica.csprojAssemblyReference.cache
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaAspx\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaAspx\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaAspx\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaAspx\Bibliotecas\CapaLogica.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaAspx\Bibliotecas\CapaLogica.pdb
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaAspx\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport\Bibliotecas\CapaLogica.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport\Bibliotecas\CapaLogica.pdb
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport\CapaLogica\obj\Debug\CapaLogica.csprojAssemblyReference.cache
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\Bibliotecas\CapaLogica.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\Bibliotecas\CapaLogica.pdb
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaLogica\obj\Debug\CapaLogica.csprojAssemblyReference.cache
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaLogica\obj\Debug\CapaLogica.pdb

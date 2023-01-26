@@ -1,0 +1,21 @@
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaIntegracion\bin\Release\CapaIntegracion.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaIntegracion\bin\Release\CapaIntegracion.pdb
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaIntegracion\bin\Release\CapaConexion.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaIntegracion\bin\Release\CapaLogica.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaIntegracion\bin\Release\CapaConexion.pdb
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaIntegracion\bin\Release\CapaLogica.pdb
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaIntegracion\obj\Release\CapaIntegracion.csproj.CoreCompileInputs.cache
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaIntegracion\obj\Release\CapaIntegracion.csproj.CopyComplete
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaIntegracion\obj\Release\CapaIntegracion.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaIntegracion\obj\Release\CapaIntegracion.pdb
+G:\Archivos de Carrera\2019\Progra III\SistemaMatriculaReport2\CapaIntegracion\bin\Release\CapaIntegracion.dll
+G:\Archivos de Carrera\2019\Progra III\SistemaMatriculaReport2\CapaIntegracion\bin\Release\CapaIntegracion.pdb
+G:\Archivos de Carrera\2019\Progra III\SistemaMatriculaReport2\CapaIntegracion\bin\Release\CapaConexion.dll
+G:\Archivos de Carrera\2019\Progra III\SistemaMatriculaReport2\CapaIntegracion\bin\Release\CapaLogica.dll
+G:\Archivos de Carrera\2019\Progra III\SistemaMatriculaReport2\CapaIntegracion\bin\Release\CapaConexion.pdb
+G:\Archivos de Carrera\2019\Progra III\SistemaMatriculaReport2\CapaIntegracion\bin\Release\CapaLogica.pdb
+G:\Archivos de Carrera\2019\Progra III\SistemaMatriculaReport2\CapaIntegracion\obj\Release\CapaIntegracion.csproj.AssemblyReference.cache
+G:\Archivos de Carrera\2019\Progra III\SistemaMatriculaReport2\CapaIntegracion\obj\Release\CapaIntegracion.csproj.CoreCompileInputs.cache
+G:\Archivos de Carrera\2019\Progra III\SistemaMatriculaReport2\CapaIntegracion\obj\Release\CapaIntegracion.csproj.CopyComplete
+G:\Archivos de Carrera\2019\Progra III\SistemaMatriculaReport2\CapaIntegracion\obj\Release\CapaIntegracion.dll
+G:\Archivos de Carrera\2019\Progra III\SistemaMatriculaReport2\CapaIntegracion\obj\Release\CapaIntegracion.pdb

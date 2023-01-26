@@ -1,0 +1,196 @@
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaPresentacion\obj\Debug\SistemaMatricula.CapaPresentacion.Form1.resources
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaPresentacion\bin\Debug\CapaConexion.dll
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaPresentacion\bin\Debug\CapaIntegracion.dll
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaPresentacion\bin\Debug\CapaLogica.dll
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaPresentacion\bin\Debug\CapaConexion.pdb
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaPresentacion\bin\Debug\CapaIntegracion.pdb
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaPresentacion\bin\Debug\CapaLogica.pdb
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.frmEstudiante.resources
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.frmGrupo.resources
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.frmProfesor.resources
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.frmCurso.resources
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.frmPrincipal.resources
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.frmEliminar.resources
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.frmMatricula.resources
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.frmHorario.resources
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.frmAula.resources
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuario.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaPresentacion\bin\Debug\CapaConexion.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaPresentacion\bin\Debug\CapaIntegracion.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaPresentacion\bin\Debug\CapaLogica.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaPresentacion\bin\Debug\CapaConexion.pdb
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaPresentacion\bin\Debug\CapaIntegracion.pdb
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaPresentacion\bin\Debug\CapaLogica.pdb
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaPresentacion\obj\Debug\SistemaMatricula.CapaPresentacion.Form1.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.frmAula.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.frmCurso.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.frmEliminar.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.frmEstudiante.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.frmGrupo.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.frmHorario.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.frmMatricula.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.frmPrincipal.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.frmProfesor.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuario.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaAspx\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaAspx\CapaPresentacion\obj\Debug\SistemaMatricula.CapaPresentacion.Form1.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaAspx\CapaPresentacion\obj\Debug\CapaPresentacion.frmAula.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaAspx\CapaPresentacion\obj\Debug\CapaPresentacion.frmCurso.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaAspx\CapaPresentacion\obj\Debug\CapaPresentacion.frmEliminar.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaAspx\CapaPresentacion\obj\Debug\CapaPresentacion.frmEstudiante.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaAspx\CapaPresentacion\obj\Debug\CapaPresentacion.frmGrupo.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaAspx\CapaPresentacion\obj\Debug\CapaPresentacion.frmHorario.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaAspx\CapaPresentacion\obj\Debug\CapaPresentacion.frmMatricula.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaAspx\CapaPresentacion\obj\Debug\CapaPresentacion.frmPrincipal.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaAspx\CapaPresentacion\obj\Debug\CapaPresentacion.frmProfesor.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaAspx\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuario.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaAspx\CapaPresentacion\obj\Debug\CapaPresentacion.frm_reportviewer.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaAspx\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaAspx\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaAspx\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaAspx\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaAspx\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaAspx\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaAspx\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaAspx\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaAspx\CapaPresentacion\bin\Debug\CapaConexion.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaAspx\CapaPresentacion\bin\Debug\CapaIntegracion.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaAspx\CapaPresentacion\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaAspx\CapaPresentacion\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaAspx\CapaPresentacion\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaAspx\CapaPresentacion\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaAspx\CapaPresentacion\bin\Debug\FlashControlV71.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaAspx\CapaPresentacion\bin\Debug\CapaLogica.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaAspx\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaAspx\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaAspx\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaAspx\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaAspx\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaAspx\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaAspx\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaAspx\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaAspx\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaAspx\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaAspx\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaAspx\CapaPresentacion\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaAspx\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaAspx\CapaPresentacion\bin\Debug\stdole.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaAspx\CapaPresentacion\bin\Debug\CapaConexion.pdb
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaAspx\CapaPresentacion\bin\Debug\CapaIntegracion.pdb
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaAspx\CapaPresentacion\bin\Debug\CapaLogica.pdb
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaAspx\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaAspx\CapaPresentacion\obj\Debug\CapaPresentacion.Logins.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport\CapaPresentacion\bin\Debug\CapaConexion.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport\CapaPresentacion\bin\Debug\CapaIntegracion.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport\CapaPresentacion\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport\CapaPresentacion\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport\CapaPresentacion\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport\CapaPresentacion\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport\CapaPresentacion\bin\Debug\FlashControlV71.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport\CapaPresentacion\bin\Debug\CapaLogica.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport\CapaPresentacion\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport\CapaPresentacion\bin\Debug\stdole.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport\CapaPresentacion\bin\Debug\CapaConexion.pdb
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport\CapaPresentacion\bin\Debug\CapaIntegracion.pdb
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport\CapaPresentacion\bin\Debug\CapaLogica.pdb
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport\CapaPresentacion\obj\Debug\CapaPresentacion.frmAula.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport\CapaPresentacion\obj\Debug\CapaPresentacion.frmCurso.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport\CapaPresentacion\obj\Debug\CapaPresentacion.frmEliminar.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport\CapaPresentacion\obj\Debug\CapaPresentacion.frmEstudiante.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport\CapaPresentacion\obj\Debug\CapaPresentacion.frmGrupo.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport\CapaPresentacion\obj\Debug\CapaPresentacion.frmHorario.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport\CapaPresentacion\obj\Debug\CapaPresentacion.frmMatricula.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport\CapaPresentacion\obj\Debug\CapaPresentacion.frmPrincipal.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport\CapaPresentacion\obj\Debug\CapaPresentacion.frmProfesor.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuario.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport\CapaPresentacion\obj\Debug\CapaPresentacion.frm_reportviewer.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport\CapaPresentacion\obj\Debug\CapaPresentacion.Logins.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Debug\CapaConexion.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Debug\CapaIntegracion.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Debug\FlashControlV71.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Debug\CapaLogica.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Debug\stdole.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Debug\CapaConexion.pdb
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Debug\CapaIntegracion.pdb
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Debug\CapaLogica.pdb
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\obj\Debug\CapaPresentacion.frmAula.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\obj\Debug\CapaPresentacion.frmCurso.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\obj\Debug\CapaPresentacion.frmEliminar.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\obj\Debug\CapaPresentacion.frmEstudiante.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\obj\Debug\CapaPresentacion.frmGrupo.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\obj\Debug\CapaPresentacion.frmHorario.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\obj\Debug\CapaPresentacion.frmMatricula.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\obj\Debug\CapaPresentacion.frmPrincipal.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\obj\Debug\CapaPresentacion.frmProfesor.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuario.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\obj\Debug\CapaPresentacion.frm_reportviewer.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\obj\Debug\CapaPresentacion.Logins.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\obj\Debug\CapaPresentacion.pdb

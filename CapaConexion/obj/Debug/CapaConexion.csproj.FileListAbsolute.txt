@@ -1,0 +1,24 @@
+C:\Users\Heiner\source\repos\SistemaMatricula\Bibliotecas\CapaConexion.dll
+C:\Users\Heiner\source\repos\SistemaMatricula\Bibliotecas\CapaConexion.pdb
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaConexion\obj\Debug\CapaConexion.csprojAssemblyReference.cache
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaConexion\obj\Debug\CapaConexion.csproj.CoreCompileInputs.cache
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaConexion\obj\Debug\CapaConexion.dll
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaConexion\obj\Debug\CapaConexion.pdb
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\Bibliotecas\CapaConexion.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\Bibliotecas\CapaConexion.pdb
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaConexion\obj\Debug\CapaConexion.csprojAssemblyReference.cache
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaConexion\obj\Debug\CapaConexion.csproj.CoreCompileInputs.cache
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaConexion\obj\Debug\CapaConexion.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaConexion\obj\Debug\CapaConexion.pdb
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaAspx\Bibliotecas\CapaConexion.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaAspx\Bibliotecas\CapaConexion.pdb
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaAspx\CapaConexion\obj\Debug\CapaConexion.csprojAssemblyReference.cache
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaAspx\CapaConexion\obj\Debug\CapaConexion.csproj.CoreCompileInputs.cache
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaAspx\CapaConexion\obj\Debug\CapaConexion.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaAspx\CapaConexion\obj\Debug\CapaConexion.pdb
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport\Bibliotecas\CapaConexion.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport\Bibliotecas\CapaConexion.pdb
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport\CapaConexion\obj\Debug\CapaConexion.csprojAssemblyReference.cache
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport\CapaConexion\obj\Debug\CapaConexion.csproj.CoreCompileInputs.cache
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport\CapaConexion\obj\Debug\CapaConexion.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport\CapaConexion\obj\Debug\CapaConexion.pdb

@@ -1,0 +1,88 @@
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Release\CapaPresentacion.exe.config
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Release\CapaPresentacion.exe
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Release\CapaPresentacion.pdb
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Release\CapaConexion.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Release\CapaIntegracion.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Release\CrystalDecisions.ReportSource.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Release\CrystalDecisions.Shared.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Release\CrystalDecisions.Windows.Forms.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Release\FlashControlV71.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Release\CapaLogica.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Release\ShockwaveFlashObjects.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Release\stdole.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Release\CapaConexion.pdb
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Release\CapaIntegracion.pdb
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Release\CapaLogica.pdb
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\obj\Release\CapaPresentacion.frmAula.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\obj\Release\CapaPresentacion.frmCurso.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\obj\Release\CapaPresentacion.frmEliminar.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\obj\Release\CapaPresentacion.frmEstudiante.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\obj\Release\CapaPresentacion.frmGrupo.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\obj\Release\CapaPresentacion.frmHorario.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\obj\Release\CapaPresentacion.frmMatricula.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\obj\Release\CapaPresentacion.frmPrincipal.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\obj\Release\CapaPresentacion.frmProfesor.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\obj\Release\CapaPresentacion.frmUsuario.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\obj\Release\CapaPresentacion.frm_reportviewer.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\obj\Release\CapaPresentacion.Logins.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\obj\Release\CapaPresentacion.Properties.Resources.resources
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\obj\Release\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\obj\Release\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\obj\Release\CapaPresentacion.csproj.CopyComplete
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\obj\Release\CapaPresentacion.exe
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaPresentacion\obj\Release\CapaPresentacion.pdb
+G:\Archivos de Carrera\2019\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Release\CapaPresentacion.exe.config
+G:\Archivos de Carrera\2019\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Release\CapaPresentacion.exe
+G:\Archivos de Carrera\2019\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Release\CapaPresentacion.pdb
+G:\Archivos de Carrera\2019\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Release\CapaConexion.dll
+G:\Archivos de Carrera\2019\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Release\CapaIntegracion.dll
+G:\Archivos de Carrera\2019\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Release\CapaLogica.dll
+G:\Archivos de Carrera\2019\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+G:\Archivos de Carrera\2019\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+G:\Archivos de Carrera\2019\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+G:\Archivos de Carrera\2019\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+G:\Archivos de Carrera\2019\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+G:\Archivos de Carrera\2019\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+G:\Archivos de Carrera\2019\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+G:\Archivos de Carrera\2019\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+G:\Archivos de Carrera\2019\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+G:\Archivos de Carrera\2019\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+G:\Archivos de Carrera\2019\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+G:\Archivos de Carrera\2019\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Release\ShockwaveFlashObjects.dll
+G:\Archivos de Carrera\2019\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+G:\Archivos de Carrera\2019\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Release\stdole.dll
+G:\Archivos de Carrera\2019\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Release\CapaConexion.pdb
+G:\Archivos de Carrera\2019\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Release\CapaIntegracion.pdb
+G:\Archivos de Carrera\2019\Progra III\SistemaMatriculaReport2\CapaPresentacion\bin\Release\CapaLogica.pdb
+G:\Archivos de Carrera\2019\Progra III\SistemaMatriculaReport2\CapaPresentacion\obj\Release\CapaPresentacion.csproj.AssemblyReference.cache
+G:\Archivos de Carrera\2019\Progra III\SistemaMatriculaReport2\CapaPresentacion\obj\Release\CapaPresentacion.frmAula.resources
+G:\Archivos de Carrera\2019\Progra III\SistemaMatriculaReport2\CapaPresentacion\obj\Release\CapaPresentacion.frmCurso.resources
+G:\Archivos de Carrera\2019\Progra III\SistemaMatriculaReport2\CapaPresentacion\obj\Release\CapaPresentacion.frmEliminar.resources
+G:\Archivos de Carrera\2019\Progra III\SistemaMatriculaReport2\CapaPresentacion\obj\Release\CapaPresentacion.frmEstudiante.resources
+G:\Archivos de Carrera\2019\Progra III\SistemaMatriculaReport2\CapaPresentacion\obj\Release\CapaPresentacion.frmGrupo.resources
+G:\Archivos de Carrera\2019\Progra III\SistemaMatriculaReport2\CapaPresentacion\obj\Release\CapaPresentacion.frmHorario.resources
+G:\Archivos de Carrera\2019\Progra III\SistemaMatriculaReport2\CapaPresentacion\obj\Release\CapaPresentacion.frmMatricula.resources
+G:\Archivos de Carrera\2019\Progra III\SistemaMatriculaReport2\CapaPresentacion\obj\Release\CapaPresentacion.frmPrincipal.resources
+G:\Archivos de Carrera\2019\Progra III\SistemaMatriculaReport2\CapaPresentacion\obj\Release\CapaPresentacion.frmProfesor.resources
+G:\Archivos de Carrera\2019\Progra III\SistemaMatriculaReport2\CapaPresentacion\obj\Release\CapaPresentacion.frmUsuario.resources
+G:\Archivos de Carrera\2019\Progra III\SistemaMatriculaReport2\CapaPresentacion\obj\Release\CapaPresentacion.frm_reportviewer.resources
+G:\Archivos de Carrera\2019\Progra III\SistemaMatriculaReport2\CapaPresentacion\obj\Release\CapaPresentacion.Logins.resources
+G:\Archivos de Carrera\2019\Progra III\SistemaMatriculaReport2\CapaPresentacion\obj\Release\CapaPresentacion.Properties.Resources.resources
+G:\Archivos de Carrera\2019\Progra III\SistemaMatriculaReport2\CapaPresentacion\obj\Release\CapaPresentacion.csproj.GenerateResource.cache
+G:\Archivos de Carrera\2019\Progra III\SistemaMatriculaReport2\CapaPresentacion\obj\Release\CapaPresentacion.csproj.CoreCompileInputs.cache
+G:\Archivos de Carrera\2019\Progra III\SistemaMatriculaReport2\CapaPresentacion\obj\Release\CapaPresentacion.csproj.CopyComplete
+G:\Archivos de Carrera\2019\Progra III\SistemaMatriculaReport2\CapaPresentacion\obj\Release\CapaPresentacion.exe
+G:\Archivos de Carrera\2019\Progra III\SistemaMatriculaReport2\CapaPresentacion\obj\Release\CapaPresentacion.pdb

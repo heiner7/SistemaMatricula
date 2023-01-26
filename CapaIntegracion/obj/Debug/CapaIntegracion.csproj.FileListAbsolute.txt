@@ -1,0 +1,35 @@
+C:\Users\Heiner\source\repos\SistemaMatricula\Bibliotecas\CapaIntegracion.pdb
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CoreCompileInputs.cache
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaIntegracion\obj\Debug\CapaIntegracion.dll
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaIntegracion\obj\Debug\CapaIntegracion.pdb
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaIntegracion\obj\Debug\CapaIntegracion.csprojAssemblyReference.cache
+C:\Users\Heiner\source\repos\SistemaMatricula\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CopyComplete
+C:\Users\Heiner\source\repos\SistemaMatricula\Bibliotecas\CapaIntegracion.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\Bibliotecas\CapaIntegracion.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\Bibliotecas\CapaIntegracion.pdb
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaIntegracion\obj\Debug\CapaIntegracion.csprojAssemblyReference.cache
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CoreCompileInputs.cache
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CopyComplete
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaIntegracion\obj\Debug\CapaIntegracion.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatricula\CapaIntegracion\obj\Debug\CapaIntegracion.pdb
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaAspx\Bibliotecas\CapaIntegracion.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaAspx\Bibliotecas\CapaIntegracion.pdb
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaAspx\CapaIntegracion\obj\Debug\CapaIntegracion.csprojAssemblyReference.cache
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaAspx\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CoreCompileInputs.cache
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaAspx\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CopyComplete
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaAspx\CapaIntegracion\obj\Debug\CapaIntegracion.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaAspx\CapaIntegracion\obj\Debug\CapaIntegracion.pdb
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport\Bibliotecas\CapaIntegracion.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport\Bibliotecas\CapaIntegracion.pdb
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport\CapaIntegracion\obj\Debug\CapaIntegracion.csprojAssemblyReference.cache
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CoreCompileInputs.cache
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CopyComplete
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport\CapaIntegracion\obj\Debug\CapaIntegracion.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport\CapaIntegracion\obj\Debug\CapaIntegracion.pdb
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\Bibliotecas\CapaIntegracion.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\Bibliotecas\CapaIntegracion.pdb
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaIntegracion\obj\Debug\CapaIntegracion.csprojAssemblyReference.cache
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CoreCompileInputs.cache
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CopyComplete
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaIntegracion\obj\Debug\CapaIntegracion.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaIntegracion\obj\Debug\CapaIntegracion.pdb

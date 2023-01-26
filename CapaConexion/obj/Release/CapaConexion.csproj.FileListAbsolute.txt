@@ -1,0 +1,11 @@
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaConexion\bin\Release\CapaConexion.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaConexion\bin\Release\CapaConexion.pdb
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaConexion\obj\Release\CapaConexion.csproj.CoreCompileInputs.cache
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaConexion\obj\Release\CapaConexion.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMatriculaReport2\CapaConexion\obj\Release\CapaConexion.pdb
+G:\Archivos de Carrera\2019\Progra III\SistemaMatriculaReport2\CapaConexion\bin\Release\CapaConexion.dll
+G:\Archivos de Carrera\2019\Progra III\SistemaMatriculaReport2\CapaConexion\bin\Release\CapaConexion.pdb
+G:\Archivos de Carrera\2019\Progra III\SistemaMatriculaReport2\CapaConexion\obj\Release\CapaConexion.csproj.AssemblyReference.cache
+G:\Archivos de Carrera\2019\Progra III\SistemaMatriculaReport2\CapaConexion\obj\Release\CapaConexion.csproj.CoreCompileInputs.cache
+G:\Archivos de Carrera\2019\Progra III\SistemaMatriculaReport2\CapaConexion\obj\Release\CapaConexion.dll
+G:\Archivos de Carrera\2019\Progra III\SistemaMatriculaReport2\CapaConexion\obj\Release\CapaConexion.pdb
